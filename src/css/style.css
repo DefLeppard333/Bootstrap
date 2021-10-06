@@ -156,7 +156,7 @@ nav {
    color: #ffffff;
    border: none;
 }
-.advantages__descr {
+.tittle {
    margin: 0 auto;
    margin-top: 33px;
    font-weight: bold;
@@ -165,10 +165,9 @@ nav {
    text-transform: uppercase;
    color: #222222;
 }
-.reason__wrapper {
+.reason {
    margin-top: 26px;
    display: flex;
-   /* justify-content: space-between; */
    width: 515px;
    height: 150px;
 }
@@ -176,7 +175,7 @@ nav {
    margin: auto 0;
    margin-right: 25px;
 }
-.img__circle {
+.reason__circle {
    width: 116px;
    height: 116px;
    border-radius: 100%;
